@@ -10,5 +10,9 @@ iso/
 # Crash log
 crash.log
 
+# vagrant files
+.vagrant
+Vagrantfile
+
 # For built boxes
 *.box
