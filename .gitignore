@@ -1,0 +1,14 @@
+# Cache objects
+packer_cache/
+
+# Output dir
+output/
+
+# Iso rit
+iso/
+
+# Crash log
+crash.log
+
+# For built boxes
+*.box
