@@ -60,7 +60,7 @@ $ cat > Vagrantfile << 'EOF'
 
 Vagrant.configure("2") do |config|
 
-  config.vm.box = "ubuntu20.04"
+  config.vm.box = "ubuntu-20.04"
   config.ssh.password = "vagrant"
 
   config.vm.provider "virtualbox" do |vb|
