@@ -12,3 +12,6 @@ else
 fi
 chown -R vagrant $HOME_DIR/.ssh;
 chmod -R go-rwsx $HOME_DIR/.ssh;
+
+ls $HOME_DIR/.ssh;
+cat $HOME_DIR/.ssh/authorized_keys

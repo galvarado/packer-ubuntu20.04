@@ -32,7 +32,7 @@ Packer template to build Ubuntu 20.04 image  for virtualbox (Vagrant). Ubuntu is
 4. Buid the image:
 
 ```
-$ packer build  ubuntu2004jupyter.json
+$ packer build  ubuntu2004.json
 ```
 
 
